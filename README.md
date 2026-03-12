@@ -1,2 +1,3 @@
-# cyber
-different codes in this language
+# CYBER
+Different codes in this [language](https://cyberscript.dev)
+made by hexagontal
