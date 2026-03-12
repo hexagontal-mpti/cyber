@@ -1,5 +1,5 @@
 -- 2026.03.13
--- TCP.CY it is script for working with Terminal Color Print in linux
+-- TCP.CY it is simple script for working with Terminal Color Print in linux
 -- You can add new colors in block with ascii colors (standart linux feature)
 -- Made by hexagontal
 
